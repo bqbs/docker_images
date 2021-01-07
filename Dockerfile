@@ -1,2 +1,2 @@
-FROM gcr.io/android-battery-historian:2.1
+FROM runcare/battery-historian:latest
 
